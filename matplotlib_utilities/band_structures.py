@@ -1,4 +1,4 @@
-from .util import sliding_window
+from .utils import sliding_window
 from matplotlib.colors import hsv_to_rgb, rgb_to_hsv, hex2color
 
 
